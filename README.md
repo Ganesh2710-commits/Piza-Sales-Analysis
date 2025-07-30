@@ -5,6 +5,10 @@ This project is a data-driven dive into pizza sales using **MySQL**, answering k
 
 From total orders to the highest-grossing pizza type, this project slices through a full-stack of SQL queries — basic to advanced — to help a pizza business understand what's hot, what’s not, and when customers are most hungry.
 
+## 📑 Pizza Sales Analysis Report
+
+[![Pizza Sales Report Thumbnail](https://github.com/Ganesh2710-commits/Piza-Sales-Analysis/blob/dbe4e2994ef8e2472da70249514786142412050d/pizza%20Sales%20analysis%20Thumbnail.png)](https://github.com/Ganesh2710-commits/Piza-Sales-Analysis/blob/515408f34c3b7961b4d31e26e7d5d362ff5a2d6e/Pizza%20sales%20analysis%20report.pdf)
+
 ---
 
 ## 🔍 Objectives
