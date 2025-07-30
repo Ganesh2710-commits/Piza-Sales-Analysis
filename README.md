@@ -1,3 +1,4 @@
+
 # 🍕 Pizza Sales Analysis (SQL Project)
 
 This project is a data-driven dive into pizza sales using **MySQL**, answering key business questions and uncovering tasty insights about order behavior, revenue trends, and customer preferences.
